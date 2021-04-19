@@ -1,5 +1,26 @@
 ### Hi there 👋
 
+### This is Felipe Parra!
+
+#### Welcome to my Github page! I am Felipe and I am Web Developer FullStack MERN
+
+
+### 🧐 More About Me:
+
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning Typescript
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about anything tech related, I am happy to help
+- 📫 How to reach me: ...
+- ⚡ Fun fact: ...
+- 
+<br>
+
+### 🔨 Languages and Tools:
+
+
 <!--
 **felipe-parra/felipe-parra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
