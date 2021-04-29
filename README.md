@@ -12,18 +12,18 @@
 ### 🧐 More About Me:
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Typescript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on MERN Stack
+- 🌱 I’m currently learning JAM Stack
+- 🤔 I’m looking for help with SSR
 - 💬 Ask me about anything tech related, I am happy to help
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
-- 
+- 📫 How to reach me: on @_felipeparra on Twitter
+- ⚡ Fun fact: I'm Veggie
+
 <br>
 
 ### 🔨 Languages and Tools:
-
+- ⚡ JavaScript, TypeScript
+- 
 
 <!--
 **felipe-parra/felipe-parra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
