@@ -22,7 +22,8 @@
 <br>
 
 ### 🔨 Languages and Tools:
-- ⚡ JavaScript, TypeScript
+- ⚡ JavaScript, TypeScript [Node, React, Next]
+- 🐍 Python [Flask, Django]
 - 😄 CSS, Sass, TailwindCSS, Bootstrap
 
 <!--
