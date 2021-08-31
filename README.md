@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-parra-ramirez/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:felipeparraramirez@hotmail.com)
 
-#### Welcome to my Github page! I am Felipe and I am Web Developer FullStack MERN
+#### Welcome to my Github page! I am Felipe and am Web Developer JavaScript [FullStack MERN] & UI Python
 
 
 ### 🧐 More About Me:
