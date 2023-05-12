@@ -22,9 +22,12 @@
 <br>
 
 ### 🔨 Languages and Tools:
-- ⚡ JavaScript, TypeScript [Node, React, Next]
-- 🐍 Python [Flask, Django]
+- ⚡ JavaScript, TypeScript [Node, React, NextJS]
+- 🐍 Python [Flask, Django, FastAPI]
 - 😄 CSS, Sass, TailwindCSS, Bootstrap
+- 🗄️ MongoDB, Firestore, MySQL, PostgreSQL, SQL Server
+- ☁️ AWS S3 Bucket, Google Cloud Run
+- 🔍 Jest
 
 <!--
 **felipe-parra/felipe-parra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
