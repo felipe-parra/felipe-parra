@@ -22,7 +22,7 @@
 <br>
 
 ### 🔨 Languages and Tools:
-- ⚡ JavaScript, TypeScript [Node, React, NextJS]
+- ⚡ JavaScript, TypeScript [Node, React JS, React Native, NextJS]
 - 🐍 Python [Flask, Django, FastAPI]
 - 😄 CSS, Sass, TailwindCSS, Bootstrap
 - 🗄️ MongoDB, Firestore, MySQL, PostgreSQL, SQL Server
