@@ -12,9 +12,9 @@
 ### 🧐 More About Me:
 
 
-- 🔭 I’m currently working on MERN Stack
-- 🌱 I’m currently learning JAM Stack
-- 🤔 I’m looking for help with SSR
+- 🔭 I’m currently working on MERN Stack (most of the time)
+- 🌱 I’m currently learning Flutter & GraphQL
+- 🤔 I’m looking for help with Flutter 
 - 💬 Ask me about anything tech related, I am happy to help
 - 📫 How to reach me: on @_felipeparra on Twitter
 - ⚡ Fun fact: I'm Veggie
