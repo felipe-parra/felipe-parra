@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-parra-ramirez/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:felipeparra.dev@gmail.com)
 
-#### Welcome to my Github page! I am Felipe and am Web Developer JavaScript [FullStack MERN]
+#### Welcome to my Github page! I am Felipe and am Software Developer [FullStack JavaScript Developer]
 
 
 ### 🧐 More About Me:
@@ -22,7 +22,7 @@
 <br>
 
 ### 🔨 Languages and Tools:
-- ⚡ JavaScript, TypeScript [Node, React JS, React Native, NextJS]
+- ⚡ JavaScript, TypeScript [Node, React JS, React Native, NextJS, ExpressJS, NestJS]
 - 🐍 Python [Flask, Django, FastAPI]
 - 😄 CSS, Sass, TailwindCSS, Bootstrap
 - 🗄️ MongoDB, Firestore, MySQL, PostgreSQL, SQL Server
