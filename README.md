@@ -26,6 +26,6 @@
 - 🐍 Python [Flask, Django, FastAPI]
 - 😄 CSS, Sass, TailwindCSS, Bootstrap
 - 🗄️ MongoDB, Firestore, MySQL, PostgreSQL, SQL Server
-- ☁️ AWS (S3 Bucket, EC2, ECS), Google Cloud Run
+- ☁️ AWS (S3 Bucket, EC2, ECS), Google (Firebase Auth, Firestore, Cloud Run)
 - 🔍 Unit Testing with Jest, Chai & Jasmine
 
