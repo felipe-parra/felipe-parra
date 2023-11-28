@@ -17,7 +17,7 @@
 - 🤔 I’m looking for help with Flutter 
 - 💬 Ask me about anything tech related, I am happy to help
 - 📫 How to reach me: on @_felipeparra on Twitter
-- ⚡ Fun fact: I'm learning piano now 🎹 
+- ⚡ Fun fact: I'm currently learning piano 🎹 
 
 <br>
 
