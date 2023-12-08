@@ -30,6 +30,31 @@
 - 🔍 Unit Testing with Jest, Chai & Jasmine
 
 ### Some stats
-<img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipe-parra&theme=dark&hide_border=true">
+
+
+
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=felipe-parra)&hide_border=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=felipe-parra)&hide_border=true&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipe-parra&hide_border=true">
+</picture>
+
 <br />
-<img height="129.6em" src="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=felipe-parra&layout=compact&card_width=400&hide_title=true&theme=dark&t&langs_count=10&hide_border=true">&nbsp;
+
+<picture>
+  <source
+    srcset="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=felipe-parra&layout=compact&card_width=400&hide_title=true&theme=dark&t&langs_count=10&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=felipe-parra&layout=compact&card_width=400&hide_title=true&theme=light&t&langs_count=10&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="145em" src="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=felipe-parra&layout=compact&card_width=400&hide_title=true&theme=dark&t&langs_count=10&hide_border=true">
+</picture>
