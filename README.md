@@ -29,3 +29,7 @@
 - ☁️ AWS (S3 Bucket, EC2, ECS), Google (Firebase Auth, Firestore, Cloud Run)
 - 🔍 Unit Testing with Jest, Chai & Jasmine
 
+### Some stats
+<img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipe-parra&theme=dark&hide_border=true">
+<br />
+<img height="129.6em" src="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=felipe-parra&layout=compact&card_width=400&hide_title=true&theme=dark&t&langs_count=10&hide_border=true">&nbsp;
