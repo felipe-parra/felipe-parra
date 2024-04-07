@@ -127,7 +127,6 @@
 ### Some stats
 
 
-
 <picture>
   <source
     srcset="https://github-readme-streak-stats.herokuapp.com/?user=felipe-parra)&hide_border=true&theme=dark"
