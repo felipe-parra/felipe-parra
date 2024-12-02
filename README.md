@@ -10,20 +10,50 @@
 
 
 - 🔭 I’m currently working on MERN Stack (most of the time)
-- 🌱 I’m currently learning Flutter & Langchain
-- 🤔 I’m looking for help with Flutter 
+- 🌱 I’m currently learning Artificial Intelligence & Devops
 - 💬 Ask me about anything tech related, I am happy to help
 - ⚡ Fun fact: I'm currently learning piano 🎹 
+<!--- - 🤔 I’m looking for help with Flutter -->
 
 <br>
 
 ### 🔨 Languages and Tools:
-- ⚡ JavaScript, TypeScript [Node, React JS, React Native, NextJS, ExpressJS, NestJS]
-- 🐍 Python [Flask, Django, FastAPI]
-- 😄 CSS, Sass, TailwindCSS, Bootstrap
-- 🗄️ MongoDB, Firestore, MySQL, PostgreSQL, SQL Server
+-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="15" alt="javascript logo"  /> JavaScript, TypeScript [Node, React JS, React Native, NextJS, ExpressJS, NestJS]
+-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="15" alt="python logo"  /> Python [Flask, Django]
+-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="15" alt="css3 logo"  /> CSS, Sass, TailwindCSS, Bootstrap
+-   <img src="https://skillicons.dev/icons?i=mongodb" height="15" alt="mongodb logo"  /> MongoDB, Firestore, MySQL, PostgreSQL, SQL Server
 - ☁️ AWS (S3 Bucket, EC2, ECS), Google (Firebase Auth, Firestore, Cloud Run)
-- 🔍 Unit Testing with Jest, Chai & Jasmine
+-   <img src="https://skillicons.dev/icons?i=jest" height="15" alt="bitbucket logo"  /> Unit Testing with Jest, Chai & Jasmine
+
+### Some stats around contributions
+
+<div>
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=felipe-parra)&hide_border=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=felipe-parra)&hide_border=true&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipe-parra&hide_border=true">
+</picture>
+
+<br />
+
+<picture>
+  <source
+    srcset="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=felipe-parra&layout=compact&card_width=400&hide_title=true&theme=dark&t&langs_count=10&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=felipe-parra&layout=compact&card_width=400&hide_title=true&theme=light&t&langs_count=10&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="145em" src="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=felipe-parra&layout=compact&card_width=400&hide_title=true&theme=dark&t&langs_count=10&hide_border=true">
+</picture>
+</div>
 <div align="left">
 
 ### Frontend
@@ -114,35 +144,6 @@
   <img src="https://skillicons.dev/icons?i=bitbucket" height="30" alt="bitbucket logo"  />
 
 </div>
-
-### Some stats
-
-
-<picture>
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=felipe-parra)&hide_border=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=felipe-parra)&hide_border=true&theme=light"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipe-parra&hide_border=true">
-</picture>
-
-<br />
-
-<picture>
-  <source
-    srcset="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=felipe-parra&layout=compact&card_width=400&hide_title=true&theme=dark&t&langs_count=10&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=felipe-parra&layout=compact&card_width=400&hide_title=true&theme=light&t&langs_count=10&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="145em" src="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=felipe-parra&layout=compact&card_width=400&hide_title=true&theme=dark&t&langs_count=10&hide_border=true">
-</picture>
 
 ### Reach me out
 <div align="left">
