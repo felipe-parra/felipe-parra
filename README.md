@@ -46,16 +46,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
   <img width="12" />
-   <img height="30" width="30" src="https://cdn.simpleicons.org/axios/[COLOR]/" alt="axios logo" />
-  <img width="12" />
-   <img height="30" width="30" src="https://cdn.simpleicons.org/reactquery/[COLOR]/" alt="reactquery logo" />
-  <img width="12" />
-  
-
   <img height="30" width="30" src="https://cdn.simpleicons.org/tailwindcss/[COLOR]" alt="tailwindcss logo"  />
   <img width="12" />
-  <img height="30" width="30" src="https://cdn.simpleicons.org/shadcnui/[COLOR]/" alt="shadcn logo"  />
-   <img height="30" width="30" src="https://cdn.simpleicons.org/bootstrap/[COLOR]/" alt="bootstrap logo" />
+  <img height="30" width="30" src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap logo" />
   <img width="12" />
 
 ### Backend
@@ -78,7 +71,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
   <img width="12" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/pulumi/[COLOR]" alt="pulumi logo"  />
+  <img height="32" width="32" src="https://skillicons.dev/icons?i=githubactions" alt="pulumi logo"  />
   <img width="12" />
 
 ### Databases
@@ -90,9 +83,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
   <img width="12" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/sqlite/[COLOR]/" alt="sqlite logo"/>
-  <img width="12" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/fauna/[COLOR]/" alt="fauna logo"/>
+  <img height="32" width="32" src="https://skillicons.dev/icons?i=sqlite" alt="sqlite logo"/>
   <img width="12" />
 
 ### Testing
