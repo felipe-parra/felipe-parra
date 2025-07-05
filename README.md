@@ -1,176 +1,95 @@
-### Hi there 👋
+## 👋 Hi there, I'm **Felipe Parra**
 
-### This is Felipe Parra!
+### 🧐 About Me
+- 🔭 Currently building with the **MERN** stack  
+- 🌱 Learning **AI** & **DevOps** best practices  
+- 💬 Ask me anything tech related — happy to help!  
+- 🎹 Fun fact: I’m learning piano  
 
+---
 
-<!--- [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/felipe-parra) -->
-
-
-### 🧐 About Me:
-
-
-- 🔭 I’m currently working on MERN Stack (most of the time)
-- 🌱 I’m currently learning Artificial Intelligence & Devops
-- 💬 Ask me about anything tech related, I am happy to help
-- ⚡ Fun fact: I'm currently learning piano 🎹 
-<!--- - 🤔 I’m looking for help with Flutter -->
-
-<br>
-
-### 🔨 Languages and Tools:
--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="15" alt="javascript logo"  /> JavaScript, TypeScript [Node, React JS, React Native, NextJS, ExpressJS, NestJS]
--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="15" alt="python logo"  /> Python [Flask, Django]
--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="15" alt="css3 logo"  /> CSS, Sass, TailwindCSS, Bootstrap
--   <img src="https://skillicons.dev/icons?i=mongodb" height="15" alt="mongodb logo"  /> MongoDB, Firestore, MySQL, PostgreSQL, SQL Server
-- ☁️ AWS (S3 Bucket, EC2, ECS), Google (Firebase Auth, Firestore, Cloud Run)
--   <img src="https://skillicons.dev/icons?i=jest" height="15" alt="bitbucket logo"  /> Unit Testing with Jest, Chai & Jasmine
-
-### Some stats around contributions
-
-<div>
-<picture>
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=felipe-parra)&hide_border=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=felipe-parra)&hide_border=true&theme=light"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipe-parra&hide_border=true">
-</picture>
-
-<br />
-
-<picture>
-  <source
-    srcset="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=felipe-parra&layout=compact&card_width=400&hide_title=true&theme=dark&t&langs_count=10&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=felipe-parra&layout=compact&card_width=400&hide_title=true&theme=light&t&langs_count=10&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="145em" src="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=felipe-parra&layout=compact&card_width=400&hide_title=true&theme=dark&t&langs_count=10&hide_border=true">
-</picture>
+## 🔨 Languages & Tools (quick view)
+<div style="dsiplay:flex; justity-content:center;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" height="28" loading="lazy" alt="JavaScript logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28" height="28" loading="lazy" alt="TypeScript logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" height="28" loading="lazy" alt="Python logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" height="28" loading="lazy" alt="React logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="28" height="28" loading="lazy" alt="Node.js logo" />
+<img src="https://skillicons.dev/icons?i=mongodb" width="28" height="28" loading="lazy" alt="MongoDB logo" />
+<img src="https://skillicons.dev/icons?i=docker" width="28" height="28" loading="lazy" alt="Docker logo" />
+<img src="https://skillicons.dev/icons?i=aws" width="28" height="28" loading="lazy" alt="AWS logo" />
 </div>
-<div align="left">
+<details>
+  <summary>Click to see Full Stack</summary>
 
-### Frontend
+### 🖥️ Frontend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28" height="28" loading="lazy" alt="HTML5 logo" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28" height="28" loading="lazy" alt="CSS3 logo" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" height="28" loading="lazy" alt="React logo" />&nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs" width="28" height="28" loading="lazy" alt="Next.js logo" />&nbsp;
+<img src="https://cdn.simpleicons.org/tailwindcss" width="28" height="28" loading="lazy" alt="Tailwind CSS logo" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
-  
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img height="30" width="30" src="https://cdn.simpleicons.org/tailwindcss/[COLOR]" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img height="30" width="30" src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap logo" />
-  <img width="12" />
+### ⚙️ Backend / DevOps
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="28" height="28" loading="lazy" alt="Node.js logo" />&nbsp;
+<img src="https://skillicons.dev/icons?i=express" width="28" height="28" loading="lazy" alt="Express logo" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" height="28" loading="lazy" alt="Python logo" />&nbsp;
+<img src="https://skillicons.dev/icons?i=django" width="28" height="28" loading="lazy" alt="Django logo" />&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" width="28" height="28" loading="lazy" alt="Docker logo" />&nbsp;
+<img src="https://skillicons.dev/icons?i=githubactions" width="28" height="28" loading="lazy" alt="GitHub Actions logo" />
 
-### Backend
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb" width="28" height="28" loading="lazy" alt="MongoDB logo" />&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres" width="28" height="28" loading="lazy" alt="PostgreSQL logo" />&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" width="28" height="28" loading="lazy" alt="MySQL logo" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
-  <img width="12" />
+### 🧪 Testing
+<img src="https://skillicons.dev/icons?i=jest" width="28" height="28" loading="lazy" alt="Jest logo" />&nbsp;
+<img src="https://cdn.simpleicons.org/mocha" width="28" height="28" loading="lazy" alt="Mocha logo" />&nbsp;
+<img src="https://cdn.simpleicons.org/chai" width="28" height="28" loading="lazy" alt="Chai logo" />
 
-### Devops
+</details>
 
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img height="32" width="32" src="https://skillicons.dev/icons?i=githubactions" alt="pulumi logo"  />
-  <img width="12" />
+---
 
-### Databases
+## 📈 GitHub Stats
 
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img height="32" width="32" src="https://skillicons.dev/icons?i=sqlite" alt="sqlite logo"/>
-  <img width="12" />
+<p align="center">
+  <picture>
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=felipe-parra&hide_border=true&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=felipe-parra&hide_border=true&theme=light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipe-parra&hide_border=true" width="380" height="150" loading="lazy" alt="Felipe Parra – GitHub streak" />
+  </picture>
 
-### Testing
+  <br/>
 
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jest" height="30" alt="jest logo"  />
-  <img width="12" />
-  <img height="30" width="30" src="https://cdn.simpleicons.org/mocha/[COLOR]" alt="mocha logo"  />
-  <img width="12" />
-  <img height="30" width="30" src="https://cdn.simpleicons.org/chai/[COLOR]" alt="chai logo"  />
+  <picture>
+    <source srcset="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=felipe-parra&layout=compact&card_width=400&hide_title=true&theme=dark&langs_count=10&hide_border=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=felipe-parra&layout=compact&card_width=400&hide_title=true&theme=light&langs_count=10&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=felipe-parra&layout=compact&card_width=400&hide_title=true&langs_count=10&hide_border=true" width="380" height="150" loading="lazy" alt="Top languages" />
+  </picture>
+</p>
 
-### Cloud
+---
 
-  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
+## 🤝 Let’s Connect
+
+<a href="https://www.linkedin.com/in/felipe-parra-ramirez/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn badge" />
+</a>
+<a href="mailto:felipeparra.dev@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail badge" />
+</a>
+<a href="https://twitter.com/_felipeparra" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="35" alt="Twitter badge" />
+</a>
+<a href="https://www.youtube.com/@FelipeParraMX" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="YouTube badge" />
+</a>
+<br/>
+<br/>
 
 
-### Version Control
+---
 
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bitbucket" height="30" alt="bitbucket logo"  />
-
-</div>
-
-### Reach me out
-<div align="left">
-  <a href="https://www.linkedin.com/in/felipe-parra-ramirez/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:felipeparra.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://twitter.com/_felipeparra" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://www.youtube.com/@FelipeParraMX" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-
-<!--
-
-
-  <a href="https://t.me/felipeparradev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-
--->
-</div>
-
-
-> to infinity and beyond 
-
-
+> _“To infinity and beyond!”_  
+<!-- > **Currently open to remote AI / DevOps roles.** -->
