@@ -8,46 +8,16 @@
 
 ---
 
-## 🔨 Languages & Tools (quick view)
-<div style="dsiplay:flex; justity-content:center;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" height="28" loading="lazy" alt="JavaScript logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28" height="28" loading="lazy" alt="TypeScript logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" height="28" loading="lazy" alt="Python logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" height="28" loading="lazy" alt="React logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="28" height="28" loading="lazy" alt="Node.js logo" />
-<img src="https://skillicons.dev/icons?i=mongodb" width="28" height="28" loading="lazy" alt="MongoDB logo" />
-<img src="https://skillicons.dev/icons?i=docker" width="28" height="28" loading="lazy" alt="Docker logo" />
-<img src="https://skillicons.dev/icons?i=aws" width="28" height="28" loading="lazy" alt="AWS logo" />
-</div>
-<details>
-  <summary>Click to see Full Stack</summary>
+## 🛠️ Technical Skills
 
-### 🖥️ Frontend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28" height="28" loading="lazy" alt="HTML5 logo" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28" height="28" loading="lazy" alt="CSS3 logo" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" height="28" loading="lazy" alt="React logo" />&nbsp;
-<img src="https://skillicons.dev/icons?i=nextjs" width="28" height="28" loading="lazy" alt="Next.js logo" />&nbsp;
-<img src="https://cdn.simpleicons.org/tailwindcss" width="28" height="28" loading="lazy" alt="Tailwind CSS logo" />
-
-### ⚙️ Backend / DevOps
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="28" height="28" loading="lazy" alt="Node.js logo" />&nbsp;
-<img src="https://skillicons.dev/icons?i=express" width="28" height="28" loading="lazy" alt="Express logo" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" height="28" loading="lazy" alt="Python logo" />&nbsp;
-<img src="https://skillicons.dev/icons?i=django" width="28" height="28" loading="lazy" alt="Django logo" />&nbsp;
-<img src="https://skillicons.dev/icons?i=docker" width="28" height="28" loading="lazy" alt="Docker logo" />&nbsp;
-<img src="https://skillicons.dev/icons?i=githubactions" width="28" height="28" loading="lazy" alt="GitHub Actions logo" />
-
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb" width="28" height="28" loading="lazy" alt="MongoDB logo" />&nbsp;
-<img src="https://skillicons.dev/icons?i=postgres" width="28" height="28" loading="lazy" alt="PostgreSQL logo" />&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql" width="28" height="28" loading="lazy" alt="MySQL logo" />
-
-### 🧪 Testing
-<img src="https://skillicons.dev/icons?i=jest" width="28" height="28" loading="lazy" alt="Jest logo" />&nbsp;
-<img src="https://cdn.simpleicons.org/mocha" width="28" height="28" loading="lazy" alt="Mocha logo" />&nbsp;
-<img src="https://cdn.simpleicons.org/chai" width="28" height="28" loading="lazy" alt="Chai logo" />
-
-</details>
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | JavaScript, TypeScript, Python, HTML, CSS |
+| **Frontend** | React, Next.js, Tailwind CSS |
+| **Backend** | Node.js, Express, Django |
+| **Databases** | MongoDB, PostgreSQL, MySQL |
+| **DevOps & Cloud** | Docker, AWS, GitHub Actions |
+| **Testing** | Jest, Mocha, Chai |
 
 ---
 
